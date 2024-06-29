@@ -1,0 +1,2 @@
+# QuantTrade
+Quantative Trading Strategies
